@@ -1,0 +1,5 @@
+Label,Human_Scorers_LA,Computer_Vision_LA,Accuracy
+Paved Road,294,188,0.6394557823129252
+Electricity Line,190,45,0.23684210526315788
+Streetlights,88,35,0.3977272727272727
+FireHydrant,12,1,0.08333333333333333
